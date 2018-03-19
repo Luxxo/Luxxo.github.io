@@ -7,6 +7,9 @@ $fargglad:#722872;
 $morkfarg:#592059;
 $morkgra:#888;
 
+<html>
+<body>
+
 .bg { 
     /* The image used */
     background-image: url("http://www.vanauker.com/app/uploads/2012/11/Black-vertical-siding-texture-picture-free-photograph-photos.jpg");
@@ -115,3 +118,5 @@ hr.star-{
     border: 0 !important;
     border-radius: 0 !important;
 }
+</body>
+</html>
